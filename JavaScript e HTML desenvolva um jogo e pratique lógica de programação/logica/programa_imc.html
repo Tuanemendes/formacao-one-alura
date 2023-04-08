@@ -1,0 +1,81 @@
+<meta charset="UTF-8">
+
+<script>
+
+    function pulaLinha() {
+
+        var pulaLinha = "<br><br><br>";
+        document.write(pulaLinha);
+    }
+
+    function mostraMensagem(messagem) {
+
+        document.write(messagem);
+        pulaLinha();
+
+    }
+
+    function calculaImc(peso, altura) {
+
+        var imc = peso / (altura * altura);
+
+        mostraMensagem("O imc de Tuane é: " + imc);
+
+    }
+
+    //passando mais parametos 
+    function calculaImcs(peso1, altura1, peso2, altura2) {
+
+        var imc1 = peso1 / (altura1 * altura1);
+        var imc2 = peso2 / (altura2 * altura2);
+        var imcTotal = imc1 + imc2;
+
+        mostraMensagem("A soma dos  imc's  é: " + imcTotal);
+
+    }
+    // return código imc 
+    function calculaImcReturn(peso, altura) {
+
+        var imc = peso / (altura * altura);
+
+        return imc;
+    }
+
+    function calculaImcReturnDireto(peso, altura) {
+
+        return peso / (altura * altura);
+
+    }
+
+    calculaImc(62, 1.63);
+
+    calculaImcs(63, 1.63, 75, 1.72);
+
+    var imcTuane = calculaImcReturn(63, 1.62);
+
+    mostraMensagem("Imc com return: " + imcTuane);
+
+    // programa generico 
+    var nome = prompt("Informe seu nome:")
+    var pesoInformado = prompt(nome + "Informe seu peso: ");
+    var alturaInformada = prompt(nome + "Informe sua altura:");
+
+    var imcCalculado = calculaImcReturnDireto(pesoInformado, alturaInformada);
+
+    mostraMensagem(nome + " ,o seu Imc é : " + imcCalculado);
+
+    //atividades
+    function a(numero1, numero2) {
+        return numero1 + numero2;
+    }
+
+    function b(numero1, numero2) {
+        return numero1 / numero2;
+    }
+
+    var resultado = a(10,20) + b(30,2);
+
+    mostraMensagem(resultado);
+
+
+</script>
