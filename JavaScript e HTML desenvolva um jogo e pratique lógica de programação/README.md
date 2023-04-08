@@ -24,9 +24,9 @@
 
 <h3>2. Comunicação com o usuario  </h3>
 
-* Compreesão dos dois mundos HTML e Javascript; 
+* Compreensão dos dois mundos HTML e Javascript; 
 * Pode ser escrito textos dentro do Javascript utilizando o 'document.write("texto")';
-* Uma das vantagens da utilização do texto dentro do javascript é a manipualação de texto com calculos, assim se torna dinamico;
+* Uma das vantagens da utilização do texto dentro do javascript é a manipulação de texto com cálculos, assim se torna dinamico;
 * concatenação do tipo texto com numeros 
 
 ```javascript
@@ -48,9 +48,9 @@
 
 * criação de variaveis 
 * Variáveis facilitam a manuteção no código;
-* retrinuição de da variável para ser alterdo o valor;
-* variável sem incia com com a letra minuscula e outras palavras em sequência tem  o inicio em letra maiuscula 'idadeTutu';
-* a variavel os tipos string que seria tipo texto e o tipo número, tipo lógico;
+* retribuição de uma variável para ser alterdo o valor;
+* variável sem iniciar com a letra minúscula e outras palavras em sequência tem  o inicio em letra maiúscula 'idadeTutu';
+* A variável os tipos string que seria tipo texto e o tipo número, tipo lógico;
 
 
 ```javascript
@@ -70,5 +70,40 @@
 
 <h3>4. Criação de funcionalidades</h3>
 
+* Criação de função para instruções dentro do código e facilita a reutilização;
+* Criar bons nomes de funções; 
+* Deve ser declarada com a palavra reservada <b>funtion</b>, deve ser usar parenteses '()' e possui um bloco com abre e fecha chaves '{}';
+* Funções é possivel passar parametros;
+* Parametros são valores que são passados dentro dos parenteses para ser alterado dinamicamente de acordo com que for passado;
+* É possível ter instruções de  outras funções dentro de uma função criada; 
 
+```javascript
+
+<meta charset="UTF-8">
+
+<script>
+
+    function pulaLinha() {
+
+        var pulaLinha = "<br><br><br>";
+        document.write(pulaLinha);
+    }
+
+    function mostraMensagem(messagem) {
+
+        document.write(messagem);
+        pulaLinha();
+
+    }
+
+    var ano = 2016;
+
+    mostraMensagem("Flávio tem " + (ano - 1977) + " anos");
+    mostraMensagem("Joaquim tem " + (ano - 1996) + " anos");
+    mostraMensagem("Barney tem " + (ano - 1976) + " anos");
+    mostraMensagem("Olá, Seja bem vido!");
+
+</script>
+
+```
 
