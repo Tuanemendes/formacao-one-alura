@@ -30,6 +30,7 @@
 * concatenação do tipo texto com numeros 
 
 ```javascript
+
 <meta charset="UTF-8">
 
 <script>
@@ -45,4 +46,29 @@
 
 <h3>3. Programa dinâmico com variáveis</h3>
 
-* 
+* criação de variaveis 
+* Variáveis facilitam a manuteção no código;
+* retrinuição de da variável para ser alterdo o valor;
+* variável sem incia com com a letra minuscula e outras palavras em sequência tem  o inicio em letra maiuscula 'idadeTutu';
+* a variavel os tipos string que seria tipo texto e o tipo número, tipo lógico;
+
+
+```javascript
+
+<meta charset="UTF-8">
+
+<script>
+
+    var media = (39 + 20 + 41) / 3;
+
+    document.write('A média das idades é ' + Math.round(media));
+
+
+</script>
+
+```
+
+<h3>4. Criação de funcionalidades</h3>
+
+
+
