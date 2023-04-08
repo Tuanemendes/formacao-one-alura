@@ -106,4 +106,28 @@
 </script>
 
 ```
+<h3>5.pratica resolvendo problemas </h3>
 
+* Criação de funções para calcular imc; 
+* funções com retorno de resuldado;
+* interação com usuario tratamento para funções genericas;
+* Função 'promt()' é um função que recebe parâmetro e possui retorno;
+
+
+```javascript
+
+    function nomeDaFuncao(parametro1, parametro2) {
+
+        var resultado = parametro1 / (parametro2 * parametro2);
+
+        return resuldado;
+    }
+
+    function nomeDaFuncao(parametro1, parametro2) {
+
+        // mesmo resultado na função acima
+
+        return  parametro1 / (parametro2 * parametro2);
+    }
+
+```
