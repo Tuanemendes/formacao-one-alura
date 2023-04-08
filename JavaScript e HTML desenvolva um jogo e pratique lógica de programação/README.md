@@ -51,7 +51,7 @@
 * retribuição de uma variável para ser alterdo o valor;
 * variável sem iniciar com a letra minúscula e outras palavras em sequência tem  o inicio em letra maiúscula 'idadeTutu';
 * A variável os tipos string que seria tipo texto e o tipo número, tipo lógico;
-
+* Função para arrendondr valores  Math.round();
 
 ```javascript
 
@@ -128,6 +128,65 @@
         // mesmo resultado na função acima
 
         return  parametro1 / (parametro2 * parametro2);
+    }
+
+```
+
+<h3>6. Execução de código diferentes</h3>
+
+* Leiura do pront sempre será texto ; 
+* conversão do tipo sprint para o tipo número com 'parseInt()'; 
+* Função para gerar números aleatorios de 0 até 10  Math.random() * 10
+* Utilização da função console.log(); para imprimir o texto no console do navegador com a mensagem de log;
+
+```javascript
+
+    var vitorias = parseInt(prompt("Entre como número de vitorias: "));
+    var empates = parseInt(prompt("Entre com o  número de empates: "));
+    
+    var a = parseInt("10");
+    var b = parseInt("Calopsita");
+    var c = parseInt(10); 
+
+    mostraMensagem(a); //saída 10 
+    mostraMensagem(b); // saída NaN
+    mostraMensagem(c); //saída 10
+
+```
+* Condições utilizandoa condição "se" 
+
+``` javascript
+
+    //vários if's 
+
+    if (valor > 28) {
+        mostraMensagem("Seu time está melhor do que o ano passado. ");
+    }
+    if (valor < 28) {
+        mostraMensagem("Seu time está pior do que o ano passado. ");
+    }
+
+```
+* condição se então 
+``` javascript
+
+    //vários if e else
+
+    if (valor > 28) {
+        mostraMensagem("Sim");
+    }else {
+        mostraMensagem("Não");
+    }
+
+```
+* utilização do operador and no código é representado pelo & comercial =>  && só passa dentro do if se todas as condições forem verdadeiras; 
+
+``` javascript
+
+    if( idade >= 18 && temCarteira == "S") {
+        mostra("Pode dirigir");
+    } else {
+        mostra("Não pode dirigir");
     }
 
 ```
