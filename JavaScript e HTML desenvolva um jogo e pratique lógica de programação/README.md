@@ -207,7 +207,6 @@
             contador = contador + 1;
         }
 
-
 ```
 * Para saber se um valor é NaN precisamos usar uma função específica, a isNaN. Essa função recebe um parâmetro e retorna true ou false caso o valor seja NaN ou não;
 * não é necessário testar se true é igual a true pode ser passado direto dentro de uma condição como  
@@ -232,7 +231,6 @@
             alert("Contador atual: " + contador);
         }
     
-
 ```
 * a utilização do break para finalinar um loop;
 * utilização de for aninhado;
@@ -253,8 +251,6 @@
 * tags de interção com o usuario '<input/>' e '<button></button>';
 
 ```javascript
-
-
 
     <input />
     <button>Clique-me</button>
@@ -284,3 +280,12 @@
 
     </script>
 ```
+<h3>9. Trabalhando com muitos dados</h3>
+
+* Trabalhando com listas (array) e é declarado com colchetes =>    var array = [5, 7, 10, 2];
+* Esses elementos podem ser de qualquer tipo conhecido do JavaScrip;
+* Utilização metodo 'length' ele retorna a quantidade de elementos que tem dentro de um array;
+* Quando queremos acessar um elemento específico do array, precisamos passar seu índice, ou seja, sua posição na lista. Contudo, precisamos estar muito atentos porque os índices do array começam de 0 até o tamanho do array menos um;
+* Todo array possui a função push que permite "empurrar" elementos para dentro da lista.
+* criação de uma lista de items que não se repetem; 
+
