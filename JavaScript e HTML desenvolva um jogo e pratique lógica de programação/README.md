@@ -190,3 +190,60 @@
     }
 
 ```
+
+<h3>7. Retição de tarefas</h3>
+
+* estrutura de  repedição com o while 
+
+```javascript
+
+//estrutura while
+
+        var contador = 1;
+
+        while( contador <= 10 ) {
+
+            mostra("Texto");
+            contador = contador + 1;
+        }
+
+
+```
+* Para saber se um valor é NaN precisamos usar uma função específica, a isNaN. Essa função recebe um parâmetro e retorna true ou false caso o valor seja NaN ou não;
+* não é necessário testar se true é igual a true pode ser passado direto dentro de uma condição como  
+
+```javascript
+
+        var idade = parseInt(prompt("Digite sua idade"));
+
+        while( isNaN(idade) ) {
+            idade = parseInt(prompt("Digite sua idade"));    
+        }
+
+        alert(idade);
+
+```
+* Loop for;
+* incremento é utilizado ++  o decremento --;
+
+```javascript
+
+        for( var contador = 1; contador <= 10; contador = contador + 1 ) {
+            alert("Contador atual: " + contador);
+        }
+    
+
+```
+* a utilização do break para finalinar um loop;
+* utilização de for aninhado 
+```javascript
+
+     for (var linha = 1; linha <= 3; linha++) {
+
+        for (var coluna = 1; coluna <= 5; coluna++) {
+            document.write("*");
+        }
+        pulaLinha();
+    }
+
+```
