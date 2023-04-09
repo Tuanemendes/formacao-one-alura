@@ -20,11 +20,6 @@
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Conteudo de Estudos](#conteudo-de-estudos)
-* []()
-* []()
-* [](#)
-* [](#)
-* [](#)
 * [Desenvolvido Por](#desenvolvido-por)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 
@@ -32,7 +27,7 @@
 <h2>💻 Descrição do Projeto</h2>
 
 <p>
-O projeto de educação realizado pela Orace em parceria com a  Alura buscam capacitar pessoas em tecnologia e realizar a conexção como mercado de trabalho... 
+O projeto de educação realizado pela Orace em parceria com a  Alura em busca de  capacitar pessoas em tecnologia e realizar a conexção como mercado de trabalho... 
 </p>
 
 <h2>💻Tecnologias Utilizadas</h2>
@@ -47,67 +42,17 @@ O projeto de educação realizado pela Orace em parceria com a  Alura buscam cap
           
 
 <h2>💻Conteudo de Estudos</h2>
+
 <p>
+
+👩‍🏫 [JavaScript e HTML: desenvolva um jogo e pratique lógica de programação](https://github.com/Tuanemendes/formacao-one-alura/tree/main/JavaScript%20e%20HTML%20desenvolva%20um%20jogo%20e%20pratique%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o)
     
 </p>
 
-<h2>👩‍🏫👨‍🏫</h2> 
-<p>
- 
-
-
-</p>
-<h3>🛠</h3>
-
-<p>
-
-</p>
-
-
-<h2>👩‍🏫 👨‍🏫</h2>
-<p>
-  
-</p>
-
-<h3>🛠</h3>
-
-
-<h2>👩‍🏫 👨‍🏫</h2> 
-<p>
-
-</p>
-
-
-<h3>🛠</h3>
-
-<p>
-
-</p>
-
- 
-<h2>👩‍🏫 👨‍🏫</h2>
-
-<p>
-
-</p>
-
-
-<h3>🛠</h3>
-
-<p>
-
-</p>
-
-
-<h2>👩‍🏫 👨‍🏫</h2>
-
-<p>
-
-</p>
 
 
 
-<h2>👩‍Desenvolvido Por</h2>
+<h2>🛠Desenvolvido Por</h2>
 
  [Tuane](https://www.linkedin.com/in/tuane-mendes/) 👩‍🎓        
 
