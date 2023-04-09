@@ -1,0 +1,39 @@
+<meta charset="UTF-8">
+<script>
+
+    function pulaLinha() {
+
+        document.write("<br>");
+    }
+
+    function mostra(frase) {
+
+        document.write(frase);
+        pulaLinha();
+    }
+
+    var limiteAno = parseInt(prompt("Entre com a data limite:"));
+
+    var anoCopa = 1930;
+
+    while (anoCopa <= limiteAno) {
+        mostra("Teve copa em " + anoCopa);
+        anoCopa = anoCopa + 4;
+    }
+    mostra("Fim");
+
+    //teste contador descrescente 
+
+    var contador = 20;
+
+    while (contador >= 0) {
+
+        mostra(contador);
+        contador = contador - 1;
+    }
+
+    mostra("FIM");
+
+
+
+</script>
