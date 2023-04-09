@@ -235,7 +235,8 @@
 
 ```
 * a utilização do break para finalinar um loop;
-* utilização de for aninhado 
+* utilização de for aninhado;
+
 ```javascript
 
      for (var linha = 1; linha <= 3; linha++) {
@@ -246,4 +247,40 @@
         pulaLinha();
     }
 
+```
+<h3>8.Novas interações como usuario </h3>
+
+* tags de interção com o usuario '<input/>' e '<button></button>';
+
+```javascript
+
+
+
+    <input />
+    <button>Clique-me</button>
+
+    <script>
+        var entrada = document.querySelector("input");
+        var botao = document.querySelector("button");
+    </script>
+```
+* Função de clicar no botão 
+* Utilização do value para pegar o valor dentro da tag de entrada de dados => '.value';
+* Utilixação a função para 'input.focus();' para dar foco no na entrada de dados;
+
+```javascript
+
+    <button>Clique-me</button>
+
+    <script>
+        
+        function tchau() {
+
+            alert("Tchau!!!!!")
+        }
+
+        var button = document.querySelector("button");
+        button.onclick = tchau;
+
+    </script>
 ```
