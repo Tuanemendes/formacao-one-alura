@@ -22,9 +22,9 @@
 
 <h3>2. Extração de funções  </h3>
 
-* Desenhar quadrados utilizando função;
+* Desenhar quadrados utilizando função lembrando que função possui uma série de instruções para executar um único comportamento;
 * consultar mais sobre o canvas em  (CanvasRenderingContex2D)[https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D#fill_and_stroke_styles] 
-* utilidade de funções ; evitar repetição de código, DEixar o código mais organizado e legível, automatizar tarefas com código mais genérico;
+* utilidade de funções ; evitar repetição de código, Deixar o código mais organizado e legível, automatizar tarefas com código mais genérico;
 * Todo loop precisa de uma linha de código dentro dela que serve para mudar a condição atual;
 * Temos o loop While e o For;
 *  Loops execitam enquanto a condição passada 'normalmente entre parênteses ()' for verdadeira;
@@ -46,11 +46,30 @@ for(var x = 0; x < 600; x = x + 50) {
 
 <h3>3. interações do usuarios</h3>
 
-* 
+* JavaScript permite trabalhar com eventos;
+* Utilização da propriedade onclick que é chamada quando por uma função é atribuida quando chamada.
+* Dentro a função é necessario passar um paramento para captura o evento de MouseEvent
+* Projeto para aumentar o tamanho do circulo com a tecla SHIFT 'evento.shiftKey' e diminuir o tamanho do circulo com a tecla ALT 'evento.altKey';
+* Projeto desenhar com o mouse 'onmousemove'  Existem os eventos, onmousedown e onmouseup.O primeiro é disparado toda vez que o botão esquerdo do mouse é pressionado e o segundo quando ele é solto.
+* Funções Anônimas não possui nomes pode ser atribuida diretamente para uma variável ou a uma propriedade;
+* Projeto de infinitas cores colcar  um input em tela para selecionar a partir de uma paleta de cores  escolher a cor para desenhar utilizando HTML e Javascript;
+* Projeto de logica para pegar o centro de um alvo utilizando as coordenada x e y; 
+
+
 
 ```javascript
 
+    // atribuindo diretamente a função anônima
+    tela.onmousedown = function() {
 
+        desenha = true;
+    }
+
+    // atribuindo diretamente a função anônima
+     tela.onmouseup = function() {
+
+        desenha = false;
+    }
 
 ```
 
