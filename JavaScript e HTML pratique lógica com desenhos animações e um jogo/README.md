@@ -99,4 +99,14 @@ for(var x = 0; x < 600; x = x + 50) {
 ```
 <h3>5. criação de um jogo </h3>
 
+* Criação  de um jogo para acertar o alvo;
+* Pratica com os conceitos aprendidos nas aulas anteriores ; 
+* Escopo das variaveis:se declararmos as variáveis fora das funções, poderemos acessar seu valor em qualquer função chamada de variável global; 
+* Foi dessenvolvido um projeto pra desenhar na tela com um paleta de algumas cores , para melhorar o projeto foi implementado um paleta com a tag input pra ter mais opções de core e um botão para limpar, a pricipio o botão faz a ataulização da pagina para carregar uma nova panina limpa;
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/54903202/231294869-78d25a7e-89d9-4942-9749-90ddf5ace29a.png"width="550" height="300" alt="Obra de Arte"/>
+</div>
+
+
 
