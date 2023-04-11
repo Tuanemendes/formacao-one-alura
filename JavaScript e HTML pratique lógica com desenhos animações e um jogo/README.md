@@ -75,10 +75,26 @@ for(var x = 0; x < 600; x = x + 50) {
 
 <h3>4. Movendo elementos</h3>
 
-* 
+* Trabalhando com animação em tela; 
+* Utilização do setInterval() para gerar um intervalo de tempo para atualizar a tela;
+* Quando queremos passar uma função como parâmetro para outra, precisamos omitir seus parênteses (), chamamos isso de callback em programação;
+* Crição da animaçãoes fazer uma bolinha movimentar com as setas do teclado , fazer com a bolinha pulse na tela e um outro projeto foi implemenar as banderias do Brasil e da Alemanha e mudar acada 3 milissegundos a bandeira automaticamente; 
+* como funciona a utilização do setInterval: é passado a função e o tempo que será executado,ou seja requer dois parâmetros: o código ou função a ser processado e o tempo em milissegundos entre os eventos do temporizador. código abaixo;
 
 ```javascript
+    function atualizaTela() {
 
+        limpaTela();
+        if (x > 600) {
+            sentido = -1;
+        } else if (x < 0) {
+            sentido = 1;
+        }
+        desenhaCirculo(x, 20, 10);
+        x = x + sentido;
+    }
+
+    setInterval(atualizaTela, 10) 
 
 ```
 <h3>5. criação de um jogo </h3>
