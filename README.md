@@ -46,9 +46,10 @@ O projeto de educação realizado pela Orace em parceria com a  Alura em busca d
 <p>
 
 👩‍🏫 [JavaScript e HTML: desenvolva um jogo e pratique lógica de programação](https://github.com/Tuanemendes/formacao-one-alura/tree/main/JavaScript%20e%20HTML%20desenvolva%20um%20jogo%20e%20pratique%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o)
+
+👩‍🏫 [JavaScript e HTML: pratique lógica com desenhos, animações e um jogo](https://github.com/Tuanemendes/formacao-one-alura/tree/main/JavaScript%20e%20HTML%20pratique%20l%C3%B3gica%20com%20desenhos%20anima%C3%A7%C3%B5es%20e%20um%20jogo)
     
 </p>
-
 
 
 
