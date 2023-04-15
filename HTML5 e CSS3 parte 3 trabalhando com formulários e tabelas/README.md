@@ -3,7 +3,7 @@
 
 <h3>1. Criação da pagina de contatos  </h3>
 
-* 
+*  Um formulário pode servir para, entre outras coisas, enviar os dados para uma outra página, capturar informações que o usuário digitar e enviar dados para um servidor.
 
 ```html
 
