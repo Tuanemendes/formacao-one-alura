@@ -36,7 +36,7 @@ O projeto de educação realizado pela Orace em parceria com a  Alura em busca d
 | :--------: | :--------: |    
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> | HTML |   
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> | JavaScript |  
-        
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /> | [VScode](https://code.visualstudio.com/download) |        
         
         
           
@@ -48,10 +48,14 @@ O projeto de educação realizado pela Orace em parceria com a  Alura em busca d
 👩‍🏫 [JavaScript e HTML: desenvolva um jogo e pratique lógica de programação](https://github.com/Tuanemendes/formacao-one-alura/tree/main/JavaScript%20e%20HTML%20desenvolva%20um%20jogo%20e%20pratique%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o)
 
 👩‍🏫 [JavaScript e HTML: pratique lógica com desenhos, animações e um jogo](https://github.com/Tuanemendes/formacao-one-alura/tree/main/JavaScript%20e%20HTML%20pratique%20l%C3%B3gica%20com%20desenhos%20anima%C3%A7%C3%B5es%20e%20um%20jogo)
-    
+
+👩‍🏫 [HTML5 e CSS3 parte 1: crie uma página da Web](https://github.com/Tuanemendes/formacao-one-alura/tree/main/HTML5%20e%20CSS3%20parte%201%20crie%20uma%20p%C3%A1gina%20da%20Web)
+
+👩‍🏫 [HTML5 e CSS3 parte 2: posicionamento, listas e navegação](https://github.com/Tuanemendes/formacao-one-alura/tree/main/HTML5%20e%20CSS3%20parte%202%20posicionamento%2C%20listas%20e%20navega%C3%A7%C3%A3o)
+
+👩‍🏫 [HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas]()
+   
 </p>
-
-
 
 <h2>🛠Desenvolvido Por</h2>
 
