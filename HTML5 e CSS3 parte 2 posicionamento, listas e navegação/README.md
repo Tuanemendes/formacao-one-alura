@@ -130,5 +130,18 @@
 
 <h3>7. Finalização da página de produtos </h3>
 
-* 
+* No CSS, ao referenciarmos o endereço de uma imagem, usamos o valor url;
+* Quando colocamos uma imagem de fundo em um elemento, o CSS, por padrão, copia e cola a imagem diversas vezes até ocupar todo o espaço do elemento
+
+```css
+
+    footer {
+        background-image: url(imagens/bg.jpg);
+    }
+
+```
+* Os caracteres Unicode estão disponíveis para serem usados como um complemento ao nosso texto. -> &copy;
+
+
+
 
