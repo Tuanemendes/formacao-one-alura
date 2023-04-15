@@ -84,8 +84,13 @@
 
 <h3>5.Como lidar com bordas</h3>
 
-* 
+* A borda fica posicionada entre o padding e a margin. abixo esta a declaração de borda;
 
+```css
+   border: 3px solid #000000;
+
+```
+* A propriedade border-radius, podemos desenhar o canto arredondado dos elementos.
 
 <h3>6. Pseudo-classes CSS</h3>
 
