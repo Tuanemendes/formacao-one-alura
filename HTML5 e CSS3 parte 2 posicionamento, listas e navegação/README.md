@@ -16,7 +16,13 @@
 
 <h3>2. Navegação entre páginas </h3>
 
+* A tag <a> de ancoragem é utilizada para direcionar um texto ou uma imagem para outra página, Com o atributo href, teremos o endereço de destino de um link, podendo direcionar para e-mails, telefones, outros sites e abas;
+* A propriedade text-transform é a responsável pela transformação do texto para maiúsculo, quando usamos o valor uppercase
+*  Deixar texto em negrito no CSS font-weight: bold;
+*  Display inline para deixa os elementos em linha;
+* Remoção da decoração do texto com text-decoration: none;
 * 
+
 
 <h3>3. Posicionamento dos elementos  </h3>
 
