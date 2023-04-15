@@ -94,8 +94,41 @@
 
 <h3>6. Pseudo-classes CSS</h3>
 
-* 
+* Em todos os elementos do HTML consigo mapear o comportamento com CSS e alterar o visual do elemento. 
+* Comportamento do hover em um elemento é mapeado o comportamento do mouse por cima do elemento, e pode utilizar para destacar visualmente o elemento em questão.
+* Algumas pseudo-classes CSS
+    * hover, quando o usuário passa o cursor sobre o elemento;
+    * active, quando um elemento está sendo ativado pelo usuário;
+
+
+```css
+/* Quando o usuário passar o cursor sobre algum link do menu de navegação, modifique a cor do seu texto.*/
+
+   nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+
+```
+
+```css
+/* Quando algum item da lista de produtos estiver sendo ativado pelo usuário, modifique a cor da sua borda.*/
+
+    .produtos li:active {
+        border-color: #088C19;    
+    }
+
+```
+```css
+/* Quando o usuário passar o cursor sobre algum item da lista de produtos, modifique o tamanho do texto do seu h2.*/
+
+    .produtos li:hover h2 {
+        font-size: 34px;
+    }
+
+```
 
 <h3>7. Finalização da página de produtos </h3>
 
+* 
 
