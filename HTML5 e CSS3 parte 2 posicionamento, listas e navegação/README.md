@@ -78,13 +78,9 @@
 
 <h3>4.Tag section </h3>
 
-* 
-
-```html
-  
-
-```
-
+* Utilizar as tags semânticas fazem com que o navegador entenda melhor o nosso conteúdo, e com isso carregue melhor a nossa página;
+* Elemento que tem o seu display com o valor inline-block, o tamanho pode ser ajustado, tanto na largura, quanto na altura.
+* Ao utilizar o padding o elemento aumenta o seu tamanho. Quando declaro que existe um espaçamento interno, estou aumentando o conteúdo.
 
 <h3>5.Como lidar com bordas</h3>
 
