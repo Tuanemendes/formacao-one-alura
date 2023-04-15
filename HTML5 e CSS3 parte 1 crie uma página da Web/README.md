@@ -102,4 +102,6 @@ Para cada um dos itens da lista, utilizamos a tag <li>;
 
 <h3>6. Finalização da página</h3>
 
-* 
+* A tag header é uma tag de conteúdo do HTML, e não uma tag de estrutura. Não confunda head com header
+* O cabeçalho da página deve ter mais destaque;
+* O ideal é usarmos classes para tudo;
