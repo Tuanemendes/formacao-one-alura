@@ -70,7 +70,17 @@
 
 <h3>4. Estilização de imagens</h3>
 
-* 
+* Inserir imagens no HTML 
+
+```html
+
+    <img src="banner.jpg">
+
+ ```
+ * Ajuste de  altura do elemento, através da propriedade height;
+ * Ajuste de  largura do elemento, através da propriedade width;
+ * Ajuste de espaçamento interno do elemento, através da propriedade padding;
+ * Ajuste de  espaçamento externo do elemento, através da propriedade margin;
 
 
 <h3>5. Listas e divisões de conteudos</h3>
