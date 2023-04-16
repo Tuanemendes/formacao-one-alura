@@ -53,7 +53,9 @@ O projeto de educação realizado pela Orace em parceria com a  Alura em busca d
 
 👩‍🏫 [HTML5 e CSS3 parte 2: posicionamento, listas e navegação](https://github.com/Tuanemendes/formacao-one-alura/tree/main/HTML5%20e%20CSS3%20parte%202%20posicionamento%2C%20listas%20e%20navega%C3%A7%C3%A3o)
 
-👩‍🏫 [HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas]()
+👩‍🏫 [HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas](https://github.com/Tuanemendes/formacao-one-alura/tree/main/HTML5%20e%20CSS3%20parte%203%20trabalhando%20com%20formul%C3%A1rios%20e%20tabelas);
+
+👩‍🏫 [HTML5 e CSS3 parte 4: avançando no CSS]();
    
 </p>
 
