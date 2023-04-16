@@ -38,7 +38,10 @@
 
 <h3>5. CSS avançado </h3>
 
-* 
+* A transição visual de um elemento utilizando a propriedade `transition`;
+* Utilizar a propriedade transform: scale() para aumentar proporcionalmente a escala de determinado elemento ou rotacioná-lo;
+* A modificar o estilo do ponteiro do mouse, quando passar por cima de determinado elemento, através da propriedade CSS `cursor`;
+
 
 <h3>6. Estrutura de tabelas</h3>
 
