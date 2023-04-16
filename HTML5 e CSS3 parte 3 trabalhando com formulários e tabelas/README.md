@@ -21,14 +21,20 @@
 
 <h3>3. tipos de campos </h3>
 
-*  A propriedade anem  de um input do tipo radio só pode ser "preenchida" uma única vez, por isso que, quando eu seleciono um dos itens, ele desmarca o outro, mantendo somente um selecionado.
+* A propriedade anem  de um input do tipo radio só pode ser "preenchida" uma única vez, por isso que, quando eu seleciono um dos itens, ele desmarca o outro, mantendo somente um selecionado.
 * Aplicar configurações genericas para um css,Usar os seletores dos itens separados por vírgula ou criar uma classe; 
-* Possui uma ordem de prioridades no seletores, força de repersentação do maior para o menor : inline-> id -> tag.class-> class -> tag
-*  A estrutura da tag <select> é composta de um ou mais <option>.
+* Possui uma ordem de prioridades no seletores, força de repersentação do maior para o menor : `inline`-> `id` -> `tag.class`-> `class` -> `tag`
+* A estrutura da tag <select> é composta de um ou mais <option>.
 
 <h3>4. Melhorar a Semântica </h3>
 
-* 
+* As tags <input> possui tipos de entradas e  dotar os tipos corretos facilita na inserção dos dados e facilitar a experiência do usuário; 
+* Transformar um campo comum em um de preenchimento obrigatório pode se utilizar a propriedade required;
+* Deixar uma opção marcada por padrão utilizando a propriedade `cheked`.
+* Alguns tipos de inputs para celular: email, tel, number, password, date, datetime, month e search
+* Exibir uma sugestão de preenchimento para os campos, através do atributo `placeholder`
+* A tag <legend> que usamos para um título de um grupo de campos em qualquer formulário;
+* Estruturar melhor o  código com fieldset e legend;
 
 <h3>5. CSS avançado </h3>
 
