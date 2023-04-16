@@ -1,5 +1,4 @@
-### HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
-
+### HTML5 e CSS3 parte 4 avançando no CSS
 
 <h3>1. Adaptar a página home </h3>
 
@@ -38,6 +37,7 @@
 <h3>4. Selecionar qualquer coisa</h3>
 
 * Seletores avançados CSS
+
     * Seletor >, para acessar os filhos de determinado elemento. Por exemplo, para acessar todos os p dentro de main:
 
     ```css
