@@ -32,7 +32,9 @@
 
 <h3>3. Refatorar o CSS</h3>
 
-* 
+* Aplicar um dregradê background: linear-gradient(gray, yellow, red, orange, blue);
+* Quando queremos criar um elemento na página, via CSS, antes do elemento do HTML, usamos a propriedade :before.
+
 <h3>4. Selecionar qualquer coisa</h3>
 
 * 
