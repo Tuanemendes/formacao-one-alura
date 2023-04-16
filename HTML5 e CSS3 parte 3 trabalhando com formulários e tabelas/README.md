@@ -42,7 +42,23 @@
 * Utilizar a propriedade transform: scale() para aumentar proporcionalmente a escala de determinado elemento ou rotacioná-lo;
 * A modificar o estilo do ponteiro do mouse, quando passar por cima de determinado elemento, através da propriedade CSS `cursor`;
 
-
 <h3>6. Estrutura de tabelas</h3>
 
-* 
+* Utilizar a tag <tr> para marcar uma linha de uma tabela.
+* As tags <thead>, <tbody> e <tfoot> ajudam a deixar o conteúdo da tabela mais bem dividido e mais semântico.
+* A criar uma tabela HTML
+    * A tag table, que representa a tabela;
+    * A tag tr, que representa a linha da tabela;
+    * A tag td, que representa a célula da tabela;
+    * A tag thead, que representa o cabeçalho da tabela;
+    * A tag tbody, que representa o corpo da tabela;
+    * A tag th, que representa a célula do cabeçalho da tabela;
+    * A tag tfoot, que representa o rodapé da tabela;
+* em uma tabela de 5 colunas, para ter uma célula única na linha, usamos um código assim:
+
+```html
+    <tr>
+        <td colspan="5">Rio de Janeiro</td> 
+    </tr>
+
+```
