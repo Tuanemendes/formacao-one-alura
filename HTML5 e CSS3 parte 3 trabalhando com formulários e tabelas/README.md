@@ -21,8 +21,10 @@
 
 <h3>3. tipos de campos </h3>
 
-* 
-
+*  A propriedade anem  de um input do tipo radio só pode ser "preenchida" uma única vez, por isso que, quando eu seleciono um dos itens, ele desmarca o outro, mantendo somente um selecionado.
+* Aplicar configurações genericas para um css,Usar os seletores dos itens separados por vírgula ou criar uma classe; 
+* Possui uma ordem de prioridades no seletores, força de repersentação do maior para o menor : inline-> id -> tag.class-> class -> tag
+*  A estrutura da tag <select> é composta de um ou mais <option>.
 
 <h3>4. Melhorar a Semântica </h3>
 
