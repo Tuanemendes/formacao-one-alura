@@ -118,7 +118,7 @@
  ```css
 
     .image {
-        
+
         box-shadow: inset 0 0 5px black;
         
     }
@@ -127,4 +127,20 @@
 
 <h3>6. Designe responsivo</h3>
 
-* 
+* Design responsivo: como ajustar o estilo da nossa página de acordo com o tamanho da tela do dispositivo que a acesse;
+* Marcar um elemento para que ele seja apresentado de outra forma, em uma tela de até 480px
+
+ ```css
+
+    @media screen and (max-width: 480px) {
+
+        body {
+            background: red;
+        }
+    }
+
+``` 
+
+* Principal tática para não perder muito tempo criando layouts responsivos:
+    * Criar um layout fluido que se adapte sempre;
+    * Usar medidas proporcionais para tudo;
