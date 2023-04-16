@@ -111,7 +111,19 @@
 
 <h3>5. Opacidade e sombra</h3>
 
-* 
+* Todos os elementos e todas as cores podem ter uma camada de opacidade.
+* Sombra interna em um elemento
+
+ 
+ ```css
+
+    .image {
+        
+        box-shadow: inset 0 0 5px black;
+        
+    }
+
+``` 
 
 <h3>6. Designe responsivo</h3>
 
