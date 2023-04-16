@@ -150,3 +150,42 @@ th {
     padding: 8px 15px;
 }
 
+@media screen and (max-width: 480px) {
+
+
+    .caixa,
+    .principal,
+    .conteudo-beneficios,
+    .mapa-conteudo,
+    .video,
+    .itens-produto,
+    .produtos li {
+        width: auto;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    nav {
+        position: static;
+    }
+
+    .lista-beneficios,
+    .imagem-beneficios,
+    .imagem-produto,
+    .produtos,
+    .produto-descricao,
+    .produto-preco,
+    .tabela-horario,
+    .enviar {
+        width: 90%;
+
+    }
+
+    .input-padrao {
+        width: 100%;
+    }
+
+    
+}
