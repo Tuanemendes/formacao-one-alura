@@ -1,0 +1,48 @@
+.flexContainer {
+    margin-top: 2em;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.flexItem {
+    width: 50px;
+    height: 50px;
+}
+
+div:nth-child(1) {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+}
+
+div:nth-child(2) {
+    background-color: blue;
+}
+
+div:nth-child(3) {
+    background-color: green;
+}
+
+div:nth-child(4) {
+    background-color: yellow;
+}
+
+
+.flexContainer {
+    display: flex;
+}
+
+.flexItem {
+    /* flex-grow: 1;  */ /*  Pode ser implementado diretamente no flex */
+    /* flex-shrink: 1; */ /*  Pode ser implementado diretamente no flex */
+    flex: 0 1 200px;
+    /* flex-basis: 200px;  */   /*  Pode ser implementado diretamente no flex */
+} 
+
+.primeiro {
+    /* flex-grow: 2; */
+    /* flex-shrink: 2; */
+}
