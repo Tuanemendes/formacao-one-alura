@@ -15,5 +15,3 @@ planos-cartao-start: #56CCF2;
 planos-cartao-ultra: #B04CD9;
 planos-cartao-mega: #E33B3B;
 
-font-family: 'Montserrat', sans-serif;
-font-family: 'Open Sans', sans-serif;
