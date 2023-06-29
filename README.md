@@ -56,6 +56,11 @@ O projeto de educação realizado pela Orace em parceria com a  Alura em busca d
 👩‍🏫 [HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas](https://github.com/Tuanemendes/formacao-one-alura/tree/main/HTML5%20e%20CSS3%20parte%203%20trabalhando%20com%20formul%C3%A1rios%20e%20tabelas);
 
 👩‍🏫 [HTML5 e CSS3 parte 4: avançando no CSS](https://github.com/Tuanemendes/formacao-one-alura/tree/main/HTML5%20e%20CSS3%20parte%204%20avan%C3%A7ando%20no%20CSS);
+
+👩‍🏫 [Flexbox](https://github.com/Tuanemendes/formacao-one-alura/tree/main/Flexbox%20posicione%20elementos%20na%20tela/flexbox);
+
+👩‍🏫 [Layouts Responsivos: trabalhando com layouts mobile](https://github.com/Tuanemendes/formacao-one-alura/tree/main/Flexbox%20posicione%20elementos%20na%20tela/flexbox);
+
    
 </p>
 
