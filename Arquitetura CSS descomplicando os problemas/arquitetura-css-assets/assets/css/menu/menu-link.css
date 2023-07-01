@@ -1,0 +1,9 @@
+
+.menu__link.ativo {
+    color: #333;
+    font-weight: bold;
+}
+
+.menu__item .menu__link:hover {
+    text-decoration: underline;
+}

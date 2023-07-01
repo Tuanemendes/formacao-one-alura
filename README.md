@@ -61,6 +61,7 @@ O projeto de educação realizado pela Orace em parceria com a  Alura em busca d
 
 👩‍🏫 [Layouts Responsivos: trabalhando com layouts mobile](https://github.com/Tuanemendes/formacao-one-alura/tree/main/Flexbox%20posicione%20elementos%20na%20tela/flexbox);
 
+👩‍🏫 [Arquitetura CSS: descomplicando os problemas](https://github.com/Tuanemendes/formacao-one-alura/tree/main/Flexbox%20posicione%20elementos%20na%20tela/flexbox);
    
 </p>
 
