@@ -34,10 +34,11 @@ O projeto de educação realizado pela Orace em parceria com a  Alura em busca d
 
 |     |   |
 | :--------: | :--------: |    
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> | HTML |   
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> | HTML | 
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> | CSS |   
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> | JavaScript |  
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /> | [VScode](https://code.visualstudio.com/download) |        
-        
+     
         
           
 
@@ -64,6 +65,8 @@ O projeto de educação realizado pela Orace em parceria com a  Alura em busca d
 👩‍🏫 [Arquitetura CSS: descomplicando os problemas]();
 
 👩‍🏫 [JavaScript: explorando a linguagem]();
+
+👩‍🏫 [JavaScript na Web: manipule o DOM com JavaScript]();
    
 </p>
 
