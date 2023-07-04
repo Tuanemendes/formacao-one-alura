@@ -8,10 +8,11 @@ body {
   justify-content: center;
   width: 100vw;
   min-height: 100vh;
+  background-color: #d8e9ee;
 }
 
 .todo-list {
-  background-color: #0B2027;
+  background-color: #1d758f;
   font-family: "Space Mono", monospace;
   padding: 1rem;
   min-width: 400px;
@@ -87,16 +88,20 @@ body {
   display: flex;
   justify-content: center;
 }
-.form-input, .form-button {
+
+.form-input,
+.form-button {
   border-radius: 0;
   padding: 0.75rem;
   font-size: 0.75rem;
 }
+
 .form-input {
   outline: none;
   background-color: #F6F1D1;
   border-color: rgba(255, 255, 255, 0.1);
 }
+
 .form-button {
   border: 1px;
   background: #F6F1D1;
@@ -104,6 +109,7 @@ body {
   cursor: pointer;
   margin-left: 0.25rem;
 }
+
 .form-button:hover {
   color: #F6F1D1;
   background: rgba(246, 241, 209, 0.1);
@@ -124,7 +130,8 @@ body {
   padding: 1rem 3rem;
 }
 
-.check-button, .delete-button {
+.check-button,
+.delete-button {
   background-color: #F6F1D1;
   border: none;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
