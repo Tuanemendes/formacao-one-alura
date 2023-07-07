@@ -1,3 +1,6 @@
+import BotaoConcluir from '../components/concluirTarefa.js';
+import BotaoDeletar from '../components/deletarTarafa.js';
+
 const criatTarefa = (evento) => {
   evento.preventDefault();
 
@@ -10,8 +13,8 @@ const criatTarefa = (evento) => {
   const conteudo = `<p class="content">${valor}</p>`;
   tarefa.innerHTML = conteudo;
 
-  tarefa.appendChild(botaoConcluir());
-
+  tarefa.appendChild(BotaoConcluir());
+  tarefa.appendChild(BotaoDeletar());
   lista.appendChild(tarefa);
 
   input.value = '';
@@ -20,19 +23,3 @@ const criatTarefa = (evento) => {
 const novaTarefa = document.querySelector('[data-form-button]');
 
 novaTarefa.addEventListener('click', criatTarefa);
-
-const botaoConcluir = () => {
-  const btnConcluir = document.createElement('button');
-  btnConcluir.classList.add('check-button');
-  btnConcluir.innerText = 'concluir';
-  btnConcluir.addEventListener('click', concluirTarefa);
-  return btnConcluir;
-};
-
-const concluirTarefa = (evento) => {
-  const botaoConcluir = evento.target;
-
-  const tarefaCompleta = botaoConcluir.parentElement;
-
-  tarefaCompleta.classList.toggle('done');
-};
