@@ -1,28 +1,24 @@
-# Formação 
+# Formação
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/54903202/230703634-3b28034b-c98d-40f7-b4fb-0bbaa3010f56.png"width="650" height="80" alt="Imersão Alura"/>
 </div>
 
-
-
-
 <h1>👩‍💻 </h1>
 
 <div align="center">
 
-![Badge em Desenvolvimento ](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge )
+![Badge em Desenvolvimento ](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 ![GitHub Org's stars](https://img.shields.io/github/stars/tuanemendes?style=social)
 
 </div>
 <h2>Índice</h2>
 
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Conteudo de Estudos](#conteudo-de-estudos)
-* [Desenvolvido Por](#desenvolvido-por)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-
+- [Descrição do Projeto](#descrição-do-projeto)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Conteudo de Estudos](#conteudo-de-estudos)
+- [Desenvolvido Por](#desenvolvido-por)
+- [Pessoas Contribuidoras](#pessoas-contribuidoras)
 
 <h2>💻 Descrição do Projeto</h2>
 
@@ -32,15 +28,12 @@ O projeto de educação realizado pela Orace em parceria com a  Alura em busca d
 
 <h2>💻Tecnologias Utilizadas</h2>
 
-|     |   |
-| :--------: | :--------: |    
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> | HTML | 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> | CSS |   
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> | JavaScript |  
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /> | [VScode](https://code.visualstudio.com/download) |        
-     
-        
-          
+|                                                                                                                            |                                                  |
+| :------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />  |                       HTML                       |
+|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />   |                       CSS                        |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> |                    JavaScript                    |
+|     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />     | [VScode](https://code.visualstudio.com/download) |
 
 <h2>💻Conteudo de Estudos</h2>
 
@@ -67,16 +60,16 @@ O projeto de educação realizado pela Orace em parceria com a  Alura em busca d
 👩‍🏫 [JavaScript: explorando a linguagem]();
 
 👩‍🏫 [JavaScript na Web: manipule o DOM com JavaScript]();
-   
+
+👩‍🏫 [JavaScript métodos de array]();
+
 </p>
 
 <h2>🛠Desenvolvido Por</h2>
 
- [Tuane](https://www.linkedin.com/in/tuane-mendes/) 👩‍🎓        
+[Tuane](https://www.linkedin.com/in/tuane-mendes/) 👩‍🎓
 
 <h2>Pessoas Contribuidoras</h2>
 
- [Time Alura](https://www.alura.com.br/) 💙 <br>
- [Time Oracle](https://www.oracle.com/br/education/oracle-next-education/) 🧡 
-
- 
+[Time Alura](https://www.alura.com.br/) 💙 <br>
+[Time Oracle](https://www.oracle.com/br/education/oracle-next-education/) 🧡
