@@ -34,6 +34,9 @@ function aplicarDesconto(livros) {
 
 Filter
 Como funciona o filter
+
+o método filter() cria um novo array com todos os elementos que passam no testes implementado pela função fornecida , a principal diferença dele, para entendermos como ele funciona, é o seguinte: temos um array, com determinados valores, sejam eles idades, categorias, alguma coisa e queremos filtrar, criando um novo conjunto de elementos, uma nova array.
+
 Filter de livros
 Livros filtrados na tela
 Cada aluno no seu curso
