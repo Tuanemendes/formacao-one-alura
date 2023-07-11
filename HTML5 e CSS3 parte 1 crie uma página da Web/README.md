@@ -85,8 +85,8 @@
 
 <h3>5. Listas e divisões de conteudos</h3>
 
-* Utilização de listas não-ordenadas <ul> e listas ordenadas <ol>
-Para cada um dos itens da lista, utilizamos a tag <li>;
+* Utilização de listas não-ordenadas `<ul>` e listas ordenadas `<ol>`
+Para cada um dos itens da lista, utilizamos a tag `<li>`;
 *  Utilização de classes no CSS que servem para marcar itens, que são repetíveis;
 
 ```css
@@ -96,7 +96,7 @@ Para cada um dos itens da lista, utilizamos a tag <li>;
     }
 
  ```
-* Divisões de conteúdo, utilizando a tag <div>;
+* Divisões de conteúdo, utilizando a tag `<div>` ;
 * Comportamentos inline e block;
 
 
