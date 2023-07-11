@@ -9,20 +9,20 @@
 * Consiste em uma série de elementos;
 * Elementos HTML informam ao navegador como exibir o conteúdo;
 * As tags são semânticas e para cada uma delas temos um significado e um resultado diferente;
-* definição o título e os parágrafos de um texto utilizando as tags <h1> e <p>;
-* dar destaque para algumas informações do texto, deixando-as em negrito, utilizando a tag <strong>;
-* dar ênfase para algumas informações do texto, deixando-as em itálico, utilizando a tag  em ;
+* definição o título e os parágrafos de um texto utilizando as tags `<h1>` e ` <p>`;
+* dar destaque para algumas informações do texto, deixando-as em negrito, utilizando a tag `<strong>`;
+* dar ênfase para algumas informações do texto, deixando-as em itálico, utilizando a tag  `<em>` ;
 
 
 <h3>2. Separação de conteudo e informações </h3>
 
 * A tag DOCTYPE serve para informar ao navegador qual versão do HTML estamos usando;
-* Passar as informações do encoding da nossa página para o navegador, através da tag <meta> e da propriedade charset: "charset="UTF-8" que  aponta para o  navegador que estamos usando um dicionário que tenha acentos e cedilha, sinais gráficos comuns na língua portuguesa;
+* Passar as informações do encoding da nossa página para o navegador, através da tag `<meta>` e da propriedade charset: "charset="UTF-8" que  aponta para o  navegador que estamos usando um dicionário que tenha acentos e cedilha, sinais gráficos comuns na língua portuguesa;
 * Na estrutura correta do HTML, inserimos as informações que queremos passar para o navegador no head e as tags de conteúdo no body;
-* A tag <html>, que marca o conteúdo a ser renderizado no navegador;
-* Para definir o título de uma página é através da tag <title>;
+* A tag `<html>`, que marca o conteúdo a ser renderizado no navegador;
+* Para definir o título de uma página é através da tag `<title>`;
 * Para separar as informações que estão sendo passadas para o navegador, utilizando a tag <head>;
-* Para  separar o conteúdo da página, utilizando a tag <body>;
+* Para  separar o conteúdo da página, utilizando a tag `<body>`;
 
 
 <h3>3. Utilização do CSS</h3>
@@ -36,7 +36,7 @@
 
 ```
 
-* outra forma de se passar o css  é colocar dentro da tag <head> é inserido a tag <style>; 
+* outra forma de se passar o css  é colocar dentro da tag <head> é inserido a tag `<style>`; 
 
 ```html
 
@@ -66,7 +66,7 @@
 
 * Estilo em cascata funciona como é uma folha de estilos em cascata, a cascata vai descendo, e o que eu faço no elemento pai reflete para o elemento filho;
 * Representação de cores no css pode ser em Hexadecimal, RGB e com os nomes das cores;
-* 
+
 
 <h3>4. Estilização de imagens</h3>
 
