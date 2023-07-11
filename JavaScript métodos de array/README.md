@@ -52,5 +52,8 @@ Ordenando números e palavras
 
 Manipulando HTML com JS
 Como funciona o reduce
+
+o método reduce executa uma função reduce fornecida por você para cada elemento do array, resultando em um único valor de retorno.
+
 Valor total com reduce
 Outros métodos especiais
