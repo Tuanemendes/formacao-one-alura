@@ -11,7 +11,7 @@
 * As tags são semânticas e para cada uma delas temos um significado e um resultado diferente;
 * definição o título e os parágrafos de um texto utilizando as tags <h1> e <p>;
 * dar destaque para algumas informações do texto, deixando-as em negrito, utilizando a tag <strong>;
-* dar ênfase para algumas informações do texto, deixando-as em itálico, utilizando a tag `<em>` ;
+* dar ênfase para algumas informações do texto, deixando-as em itálico, utilizando a tag  em ;
 
 
 <h3>2. Separação de conteudo e informações </h3>
