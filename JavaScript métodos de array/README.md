@@ -42,6 +42,9 @@ Livros filtrados na tela
 Cada aluno no seu curso
 
 Como funciona o sort
+
+array.prototype.sort(), o método sort ordena os elementos do próprio array e retorna o array, retorna o array ordenado. A ordenação não é necessariamente estável.
+
 sort de livros
 Livros indisponíveis
 Filtrando livros disponíveis
