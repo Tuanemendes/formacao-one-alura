@@ -51,17 +51,17 @@ O projeto de educação realizado pela Orace em parceria com a  Alura em busca d
 
 👩‍🏫 [HTML5 e CSS3 parte 4: avançando no CSS](https://github.com/Tuanemendes/formacao-one-alura/tree/main/HTML5%20e%20CSS3%20parte%204%20avan%C3%A7ando%20no%20CSS);
 
-👩‍🏫 [Flexbox](https://github.com/Tuanemendes/formacao-one-alura/tree/main/Flexbox%20posicione%20elementos%20na%20tela/flexbox);
+👩‍🏫 [Flexbox]([https://github.com/Tuanemendes/formacao-one-alura/tree/main/Flexbox%20posicione%20elementos%20na%20tela/flexbox](https://github.com/Tuanemendes/formacao-one-alura/tree/main/Flexbox%20posicione%20elementos%20na%20tela/flexbox));
 
-👩‍🏫 [Layouts Responsivos: trabalhando com layouts mobile]();
+👩‍🏫 [Layouts Responsivos: trabalhando com layouts mobile](https://github.com/Tuanemendes/formacao-one-alura/tree/main/Layouts%20Resposivos%20trabalhando%20com%20layouts%20mobile/projeto-apeperia);
 
-👩‍🏫 [Arquitetura CSS: descomplicando os problemas]();
+👩‍🏫 [Arquitetura CSS: descomplicando os problemas](https://github.com/Tuanemendes/formacao-one-alura/tree/main/Arquitetura%20CSS%20descomplicando%20os%20problemas/arquitetura-css-assets);
 
-👩‍🏫 [JavaScript: explorando a linguagem]();
+👩‍🏫 [JavaScript: explorando a linguagem](https://github.com/Tuanemendes/formacao-one-alura/tree/main/JavaScript%20explorando%20a%20linguagem);
 
-👩‍🏫 [JavaScript na Web: manipule o DOM com JavaScript]();
+👩‍🏫 [JavaScript na Web: manipule o DOM com JavaScript](https://github.com/Tuanemendes/formacao-one-alura/tree/main/JavaScript%20na%20Web%20manipule%20o%20DOM%20com%20JavaScript);
 
-👩‍🏫 [JavaScript métodos de array]();
+👩‍🏫 [JavaScript métodos de array](https://github.com/Tuanemendes/formacao-one-alura/tree/main/JavaScript%20m%C3%A9todos%20de%20array);
 
 </p>
 
