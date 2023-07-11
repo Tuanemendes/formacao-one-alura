@@ -1,6 +1,7 @@
 
 const elementoParaInserirLivros = document.querySelector('[data-livros]');
 
+const totalLivrosDiposniveis = document.querySelector('[data-total-livros-dipoviveis]')
 
 function exibirLivros(listaLivros) {
     elementoParaInserirLivros.innerHTML = '';
