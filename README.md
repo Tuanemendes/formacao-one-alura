@@ -63,6 +63,9 @@ O projeto de educação realizado pela Orace em parceria com a  Alura em busca d
 
 👩‍🏫 [JavaScript métodos de array]();
 
+👩‍🏫 [JavaScript: consumindo e tratando dados de uma API]();
+
+
 </p>
 
 <h2>🛠Desenvolvido Por</h2>
