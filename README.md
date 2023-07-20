@@ -23,7 +23,7 @@
 <h2>💻 Descrição do Projeto</h2>
 
 <p>
-O projeto de educação realizado pela Orace em parceria com a  Alura em busca de  capacitar pessoas em tecnologia e realizar a conexção como mercado de trabalho... 
+O projeto de educação realizado pela Oracle em parceria com a  Alura em busca de  capacitar pessoas em tecnologia e realizar a conexção como mercado de trabalho... 
 </p>
 
 <h2>💻Tecnologias Utilizadas</h2>
