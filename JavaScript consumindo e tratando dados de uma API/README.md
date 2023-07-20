@@ -135,16 +135,27 @@ var requisicao = fetch("https://localhost:5000/")
 .then(respostaConvertida => console.log(respostaConvertida));
 
 ```
+Ao fazer uma requisição para uma API com o fetch, é necessário converter os dados recebidos com o método .json() ,pois os dados chegam em formato de bytes e precisamos transformar em outro formato para manipulá-los.
 
+ O formato JSON (JavaScript Object Notation) possui basicamente a mesma sintaxe que a de um objeto JS.
 Convertendo dados
+
+
 Tratando erros com catch
+
+catch em português significa "pegue". catch é usada em conjunto com a cláusula try para capturar e tratar erros (exceções) que podem ocorrer em um bloco de código.
+
 Finally
+
+finally é opcional e é usada para definir um bloco de código que será executado independentemente de ocorrer uma exceção ou não. Isso significa que o código dentro do bloco finally sempre será executado, quer haja um erro ou não.
+
 
 ## Criando funções assícronas
 
 Async Await
 
 reproduzir o mesmo código usando async await:
+A declaração async function define uma função assíncrona e o operador await é utilizado para esperar por uma Promise. Dessa maneira, nossa requisição funcionará corretamente.
 
 ```
 async function geraRequisicao() {
@@ -154,10 +165,9 @@ async function geraRequisicao() {
 
 ```
 
-Alternando conhecimentos
-Tratamento de erros
-Promise All
 
+Promise All
+é um método estático da classe Promise em JavaScript que permite trabalhar com várias promessas simultaneamente. Ele recebe um array de promessas como argumento e retorna uma nova promessa que é resolvida quando todas as promessas do array são resolvidas ou rejeitada se qualquer uma das promessas for rejeitada.
 
 
 ```
@@ -172,6 +182,14 @@ Promise All
 ## Manipulando formulários
 
 Consulta dinâmica
+
 Escutando eventos
+addEventListener(), que permite chamar funções quando ocorre alguma interação do usuário em específico
+
 Preenchimento automático
+“focusout” (que se refere a retirada de foco desse elemento)
+
+
 Evitando problemas
+
+
