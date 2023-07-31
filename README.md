@@ -65,6 +65,10 @@ O projeto de educação realizado pela Oracle em parceria com a  Alura em busca 
 
 👩‍🏫 [JavaScript: consumindo e tratando dados de uma API]();
 
+👩‍🏫 [JavaScript: consumindo e tratando dados de uma API]();
+
+👩‍🏫 [JavaScript: consumindo e tratando dados de uma API]();
+
 
 </p>
 
