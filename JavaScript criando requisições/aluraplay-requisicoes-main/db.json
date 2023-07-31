@@ -90,7 +90,20 @@
       "url": "https://www.youtube.com/embed/imTUTl2sCW4",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 13
+    },
+    {
+      "titulo": "Como funciona o Data attributes?",
+      "descricao": "2 mil visualizações",
+      "url": "https://www.youtube.com/embed/ri-xkk9PuDU",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 14
+    },
+    {
+      "titulo": "Criando seu hello world com GraphQL ",
+      "descricao": "8 mil visualizações",
+      "url": "https://www.youtube.com/embed/RLP9MixVZvw",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 15
     }
   ]
 }
-

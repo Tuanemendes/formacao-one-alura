@@ -2,7 +2,7 @@ import { conexaoApi } from "./conexaoAPI.js";
 
 const list = document.querySelector('[data-list]');
 
-function constroiCard(titulo, descricao, url, imagem){
+export default function constroiCard(titulo, descricao, url, imagem){
     const video = document.createElement('li');
     video.className = "videos__item";
     video.innerHTML = `<iframe width="100%" height="72%" src="${url}"
@@ -19,15 +19,19 @@ function constroiCard(titulo, descricao, url, imagem){
 }
 
 async function mostraVideos(){
-     const listaVideosApi = await conexaoApi.listaVideos();
-     listaVideosApi.forEach(video => list.appendChild(
-            constroiCard(
-            video.titulo,
-            video.descricao,
-            video.url,
-            video.imagem
-        ))
-    );
+    try{
+        const listaVideosApi = await conexaoApi.listaVideos();
+        listaVideosApi.forEach(video => list.appendChild(
+               constroiCard(
+               video.titulo,
+               video.descricao,
+               video.url,
+               video.imagem
+           ))
+       );
+    }catch{
+        list.innerHTML = `<h2 class="mensagem__titulo">Erro ao carregar os vídeos</h2>`
+    }  
 }
 
 mostraVideos();
